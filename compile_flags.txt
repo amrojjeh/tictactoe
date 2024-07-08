@@ -1,0 +1,6 @@
+-Iinclude
+-lm
+-lX11
+-Wall
+-D
+_GLFW_X11
